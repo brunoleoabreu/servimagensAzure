@@ -35,4 +35,10 @@ Documentação utilizada:
 
 ![faces02](https://github.com/brunoleoabreu/servimagensAzure/assets/113058077/c9724e95-e206-425d-bdf7-f7044a77c532)
 
+## Lendo textos no Vision Studio
+
+### Extraindo texto de imagens
+![lendoTexto](https://github.com/brunoleoabreu/servimagensAzure/assets/113058077/88471112-70a2-4c0b-97de-1967a076f16c)
+
+**De acordo com os testes realizados as ferramentas funcionam muito bem!**
 
