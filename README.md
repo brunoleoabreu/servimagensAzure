@@ -28,4 +28,11 @@ Documentação utilizada:
 ### Detecção de objetos
 ![objetos](https://github.com/brunoleoabreu/servimagensAzure/assets/113058077/41f5e478-45a7-4548-ab4d-3d34b82b4d08)
 
+## Detectando faces no Vision Studio
+
+### Detectando faces
+![faces01](https://github.com/brunoleoabreu/servimagensAzure/assets/113058077/77bb5ce3-f738-4fd0-83ac-24823b2447ad)
+
+![faces02](https://github.com/brunoleoabreu/servimagensAzure/assets/113058077/c9724e95-e206-425d-bdf7-f7044a77c532)
+
 
